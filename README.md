@@ -14,9 +14,6 @@ An interactive Streamlit app that analyzes resumes against a job description usi
 ## Project Structure
 - `resume_screener.py`: Streamlit app and core logic
 - `requirements.txt`: Python dependencies
-- `docs/Project_Report.md`: Detailed report (methodology, implementation, results)
-- `slides/Presentation.md`: Slide outline summarizing findings
-
 ## Prerequisites
 - Python 3.9–3.12
 - Windows, macOS, or Linux
